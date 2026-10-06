@@ -20,7 +20,6 @@
 - 🎓 Diplôme d'ingénieur EFREI Paris (2022 – 2027), cursus intégralement en anglais, semestre d'échange à **APU, Kuala Lumpur**
 - 🏢 Stage ingénieur logiciel chez **Sopra Steria** pour le Ministère des Finances : diagnostic d'incidents de production sur des microservices Java/Kafka, correctifs en merge request, rejeux Kafka automatisés
 - 💼 **Développeur freelance** : messagerie automatisée pour gîtes et API FastAPI synchronisée avec Beds24 (webhooks, Docker, GitHub Actions)
-- 🤟 En ce moment : **traduction automatique de la langue des signes française** avec PyTorch et MediaPipe
 - 🌍 Anglais C1 (TOEIC 975/990) · Mandarin oral · Allemand A2
 
 ---
@@ -30,7 +29,6 @@
 | Projet | Description | Stack |
 | --- | --- | --- |
 | 🤟 [**SWS-sign-language-translator**](https://github.com/Copni/SWS-sign-language-translator) | Application desktop qui traduit des signes en texte français, 100 % hors ligne : landmarks des mains via MediaPipe, puis classification | Python · MediaPipe · scikit-learn · pytest |
-| 💊 [**drugs-api**](https://github.com/Copni/drugs-api) + [**NoHigh**](https://github.com/Copni/NoHigh) | Plateforme de réduction des risques : API REST paginée avec jeton bearer, et client React qui la consomme | FastAPI · React 19 · React Router · OpenAPI |
 | 📊 [**uber-reviews-sentiment-classifier**](https://github.com/Copni/uber-reviews-sentiment-classifier) | Classification de sentiment sur 12 000 avis, comparaison de pipelines sans fuite de données et avec gestion du déséquilibre de classes | Python · scikit-learn · NLTK · pandas |
 | 🧪 [**software-testing-lab**](https://github.com/Copni/software-testing-lab) | Stratégie de test d'une application web RH : tests unitaires, d'intégration et E2E, refactorisés en Page Object Model | Playwright · pytest · PostgreSQL |
 | 🕸️ [**scala3-graph-toolkit**](https://github.com/Copni/scala3-graph-toolkit) | Bibliothèque de graphes immuables et purement fonctionnelle : BFS, DFS, Dijkstra | Scala 3 · ZIO · ScalaTest |
@@ -62,8 +60,6 @@
 
 **Backend & Frontend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
@@ -78,8 +74,6 @@
 **DevOps & Qualité**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
